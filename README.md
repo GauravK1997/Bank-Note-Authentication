@@ -1,11 +1,11 @@
 # Bank-Note-Authentication
-The Web App is live at: https://bank-note-authent-gaurav.herokuapp.com/
+
 
 ## This is an End-to-End Data Science Project built to predict whether a bank note is Legit or not.
 
 ## The Project has been deployed on Heroku Cloud Platform.
 
-## Web App Link: http://bank-note-authent-gaurav.herokuapp.com/
+## The Web App is live at: https://bank-note-authent-gaurav.herokuapp.com/
 ---
 ## A glimpse of the Project
 
