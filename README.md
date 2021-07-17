@@ -1,4 +1,4 @@
-# Bank-Note-Authentication
+# Bank Note Authentication
 
 * ## About the Project
 
